@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Farstol Decoration",
+        "price": 120,
+        "img": "../images/decoration/decoration1.jpg",
+        "status": "new"
+    },
+    {
+        "id": 2,
+        "name": "Farstol Decoration",
+        "price": "120",
+        "img": "../images/decoration/decoration2.jpg",
+        "status": ""
+    },
+    {
+        "id": 3,
+        "name": "Farstol Decoration",
+        "price": 120,
+        "img": "../images/decoration/decoration3.jpg",
+        "status": "sale"
+    },
+    {
+        "id": 4,
+        "name": "Farstol Decoration",
+        "price": 120,
+        "img": "../images/decoration/decoration4.jpg",
+        "status": ""
+    },
+    {
+        "id": 5,
+        "name": "Farstol Decoration",
+        "price": 120,
+        "img": "../images/decoration/decoration5.jpg",
+        "status": ""
+    },
+    {
+        "id": 6,
+        "name": "Farstol Decoration",
+        "price": 120,
+        "img": "../images/decoration/decoration6.jpg",
+        "status": ""
+    },
+    {
+        "id": 7,
+        "name": "Farstol Decoration",
+        "price": 120,
+        "img": "../images/decoration/decoration7.jpg",
+        "status": ""
+    },
+    {
+        "id": 8,
+        "name": "Farstol Decoration",
+        "price": 120,
+        "img": "../images/decoration/decoration8.jpg",
+        "status": ""
+    }
+]
