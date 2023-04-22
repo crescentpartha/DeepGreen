@@ -1,6 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPinterest, faTwitter, faBehance, faDribbble } from '@fortawesome/free-brands-svg-icons';
+import { faHeart } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
 import footerBanner from '../images/footer-banner.jpg';
 import FooterCard from './FooterCard';
@@ -43,7 +44,7 @@ const Footer = () => {
                     <hr className='border-t border-neutral-700 w-full' />
 
                     <div className="max-w-full">
-                        <p className='text-neutral text-sm my-3 font-kiro'><span className='text-primary font-coresens'>DeepGreen</span> @{new Date().getFullYear()} Made with ❤ All Right Reserved</p>
+                        <p className='text-neutral text-sm my-3 font-kiro'><span className='text-primary font-coresens'>DeepGreen</span> @{new Date().getFullYear()} Made with <FontAwesomeIcon icon={faHeart} className='text-red-500' /> All Right Reserved</p>
                     </div>
                 </div>
             </div>
