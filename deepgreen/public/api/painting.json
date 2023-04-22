@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Farstol Painting",
+        "price": 120,
+        "img": "../images/painting/painting1.jpg",
+        "status": "new"
+    },
+    {
+        "id": 2,
+        "name": "Farstol Painting",
+        "price": "120",
+        "img": "../images/painting/painting2.jpg",
+        "status": ""
+    },
+    {
+        "id": 3,
+        "name": "Farstol Painting",
+        "price": 120,
+        "img": "../images/painting/painting3.jpg",
+        "status": "sale"
+    },
+    {
+        "id": 4,
+        "name": "Farstol Painting",
+        "price": 120,
+        "img": "../images/painting/painting4.jpg",
+        "status": ""
+    },
+    {
+        "id": 5,
+        "name": "Farstol Painting",
+        "price": 120,
+        "img": "../images/painting/painting5.jpg",
+        "status": ""
+    },
+    {
+        "id": 6,
+        "name": "Farstol Painting",
+        "price": 120,
+        "img": "../images/painting/painting6.jpg",
+        "status": ""
+    },
+    {
+        "id": 7,
+        "name": "Farstol Painting",
+        "price": 120,
+        "img": "../images/painting/painting7.jpg",
+        "status": ""
+    },
+    {
+        "id": 8,
+        "name": "Farstol Painting",
+        "price": 120,
+        "img": "../images/painting/painting8.jpg",
+        "status": ""
+    }
+]
