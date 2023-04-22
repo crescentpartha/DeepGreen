@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Farstol Sofa",
+        "price": 120,
+        "img": "../images/sofa/sofa1.png",
+        "status": "new"
+    },
+    {
+        "id": 2,
+        "name": "Farstol Sofa",
+        "price": "120",
+        "img": "../images/sofa/sofa2.png",
+        "status": ""
+    },
+    {
+        "id": 3,
+        "name": "Farstol Sofa",
+        "price": 120,
+        "img": "../images/sofa/sofa3.png",
+        "status": "sale"
+    },
+    {
+        "id": 4,
+        "name": "Farstol Sofa",
+        "price": 120,
+        "img": "../images/sofa/sofa4.png",
+        "status": ""
+    },
+    {
+        "id": 5,
+        "name": "Farstol Sofa",
+        "price": 120,
+        "img": "../images/sofa/sofa5.png",
+        "status": ""
+    },
+    {
+        "id": 6,
+        "name": "Farstol Sofa",
+        "price": 120,
+        "img": "../images/sofa/sofa6.png",
+        "status": ""
+    },
+    {
+        "id": 7,
+        "name": "Farstol Sofa",
+        "price": 120,
+        "img": "../images/sofa/sofa7.png",
+        "status": ""
+    },
+    {
+        "id": 8,
+        "name": "Farstol Sofa",
+        "price": 120,
+        "img": "../images/sofa/sofa8.png",
+        "status": ""
+    }
+]
