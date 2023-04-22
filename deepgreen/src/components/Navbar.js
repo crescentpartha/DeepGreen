@@ -30,7 +30,7 @@ const Navbar = () => {
                         </li>
                     </ul>
                 </div>
-                <Link to='/' className="btn btn-link no-underline hover:no-underline normal-case text-xl text-secondary font-coresens border-4 border-secondary hover:border-secondary">DeepGreen</Link>
+                <Link to='/' className="btn btn-link no-underline hover:no-underline normal-case text-xl text-secondary font-coresens border-4 border-secondary hover:border-secondary rounded-none">DeepGreen</Link>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 uppercase font-coresens text-xs">
