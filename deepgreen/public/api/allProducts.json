@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Comfort Table",
+        "price": 170,
+        "img": "../images/table/table3.png",
+        "status": "sale"
+    },
+    {
+        "id": 2,
+        "name": "Farstol Sofa",
+        "price": "220",
+        "img": "../images/sofa/sofa5.png",
+        "status": ""
+    },
+    {
+        "id": 3,
+        "name": "Lylon Chair",
+        "price": 150,
+        "img": "../images/chair/chair3.png",
+        "status": "sale"
+    },
+    {
+        "id": 4,
+        "name": "Farstol Chair",
+        "price": 120,
+        "img": "../images/chair/chair7.png",
+        "status": "new"
+    },
+    {
+        "id": 5,
+        "name": "Gorgeous Decoration",
+        "price": 550,
+        "img": "../images/decoration/decoration5.jpg",
+        "status": ""
+    },
+    {
+        "id": 6,
+        "name": "Farstol Decoration",
+        "price": 400,
+        "img": "../images/decoration/decoration6.jpg",
+        "status": ""
+    },
+    {
+        "id": 7,
+        "name": "Master Painting",
+        "price": 250,
+        "img": "../images/painting/painting1.jpg",
+        "status": ""
+    },
+    {
+        "id": 8,
+        "name": "Farstol Painting",
+        "price": 220,
+        "img": "../images/painting/painting5.jpg",
+        "status": ""
+    }
+]

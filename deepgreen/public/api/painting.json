@@ -1,58 +1,58 @@
 [
     {
         "id": 1,
-        "name": "Farstol Painting",
-        "price": 120,
+        "name": "Master Painting",
+        "price": 250,
         "img": "../images/painting/painting1.jpg",
-        "status": "new"
+        "status": ""
     },
     {
         "id": 2,
         "name": "Farstol Painting",
-        "price": "120",
+        "price": "135",
         "img": "../images/painting/painting2.jpg",
         "status": ""
     },
     {
         "id": 3,
         "name": "Farstol Painting",
-        "price": 120,
+        "price": 155,
         "img": "../images/painting/painting3.jpg",
         "status": "sale"
     },
     {
         "id": 4,
-        "name": "Farstol Painting",
-        "price": 120,
+        "name": "Sundarban Painting",
+        "price": 170,
         "img": "../images/painting/painting4.jpg",
         "status": ""
     },
     {
         "id": 5,
         "name": "Farstol Painting",
-        "price": 120,
+        "price": 220,
         "img": "../images/painting/painting5.jpg",
         "status": ""
     },
     {
         "id": 6,
-        "name": "Farstol Painting",
+        "name": "Ancient Painting",
         "price": 120,
         "img": "../images/painting/painting6.jpg",
-        "status": ""
+        "status": "sale"
     },
     {
         "id": 7,
-        "name": "Farstol Painting",
-        "price": 120,
+        "name": "Ocean Painting",
+        "price": 150,
         "img": "../images/painting/painting7.jpg",
         "status": ""
     },
     {
         "id": 8,
         "name": "Farstol Painting",
-        "price": 120,
+        "price": 190,
         "img": "../images/painting/painting8.jpg",
-        "status": ""
+        "status": "sale"
     }
 ]

@@ -1,52 +1,52 @@
 [
     {
         "id": 1,
-        "name": "Farstol Sofa",
-        "price": 120,
+        "name": "Royal Sofa",
+        "price": 250,
         "img": "../images/sofa/sofa1.png",
         "status": "new"
     },
     {
         "id": 2,
-        "name": "Farstol Sofa",
-        "price": "120",
+        "name": "Family Sofa",
+        "price": "150",
         "img": "../images/sofa/sofa2.png",
         "status": ""
     },
     {
         "id": 3,
-        "name": "Farstol Sofa",
+        "name": "Family Sofa",
         "price": 120,
         "img": "../images/sofa/sofa3.png",
-        "status": "sale"
+        "status": ""
     },
     {
         "id": 4,
         "name": "Farstol Sofa",
-        "price": 120,
+        "price": 100,
         "img": "../images/sofa/sofa4.png",
-        "status": ""
+        "status": "sale"
     },
     {
         "id": 5,
-        "name": "Farstol Sofa",
-        "price": 120,
+        "name": "Comfort Sofa",
+        "price": 220,
         "img": "../images/sofa/sofa5.png",
-        "status": ""
+        "status": "sale"
     },
     {
         "id": 6,
         "name": "Farstol Sofa",
-        "price": 120,
+        "price": 130,
         "img": "../images/sofa/sofa6.png",
         "status": ""
     },
     {
         "id": 7,
-        "name": "Farstol Sofa",
-        "price": 120,
+        "name": "Shahi Sofa",
+        "price": 170,
         "img": "../images/sofa/sofa7.png",
-        "status": ""
+        "status": "new"
     },
     {
         "id": 8,

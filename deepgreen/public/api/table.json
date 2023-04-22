@@ -1,50 +1,50 @@
 [
     {
         "id": 1,
-        "name": "Farstol Table",
-        "price": 120,
+        "name": "Tea Table",
+        "price": 100,
         "img": "../images/table/table1.png",
         "status": "new"
     },
     {
         "id": 2,
         "name": "Farstol Table",
-        "price": "120",
+        "price": "110",
         "img": "../images/table/table2.png",
         "status": ""
     },
     {
         "id": 3,
-        "name": "Farstol Table",
-        "price": 120,
+        "name": "Comfort Table",
+        "price": 170,
         "img": "../images/table/table3.png",
         "status": "sale"
     },
     {
         "id": 4,
-        "name": "Farstol Table",
-        "price": 120,
+        "name": "Branch Table",
+        "price": 70,
         "img": "../images/table/table4.png",
         "status": ""
     },
     {
         "id": 5,
-        "name": "Farstol Table",
-        "price": 120,
+        "name": "Crystal Table",
+        "price": 150,
         "img": "../images/table/table5.png",
         "status": ""
     },
     {
         "id": 6,
-        "name": "Farstol Table",
-        "price": 120,
+        "name": "Wardrobe Table",
+        "price": 240,
         "img": "../images/table/table6.png",
-        "status": ""
+        "status": "new"
     },
     {
         "id": 7,
-        "name": "Farstol Table",
-        "price": 120,
+        "name": "Flat Table",
+        "price": 100,
         "img": "../images/table/table7.png",
         "status": ""
     },

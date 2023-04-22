@@ -1,57 +1,57 @@
 [
     {
         "id": 1,
-        "name": "Farstol Chair",
-        "price": 120,
+        "name": "Wood Chair",
+        "price": 160,
         "img": "../images/chair/chair1.png",
-        "status": "new"
+        "status": "sale"
     },
     {
         "id": 2,
         "name": "Farstol Chair",
-        "price": "120",
+        "price": "160",
         "img": "../images/chair/chair2.png",
         "status": ""
     },
     {
         "id": 3,
-        "name": "Farstol Chair",
-        "price": 120,
+        "name": "Lylon Chair",
+        "price": 150,
         "img": "../images/chair/chair3.png",
         "status": "sale"
     },
     {
         "id": 4,
         "name": "Farstol Chair",
-        "price": 120,
+        "price": 160,
         "img": "../images/chair/chair4.png",
         "status": ""
     },
     {
         "id": 5,
-        "name": "Farstol Chair",
+        "name": "Plastic Chair",
         "price": 120,
         "img": "../images/chair/chair5.png",
         "status": ""
     },
     {
         "id": 6,
-        "name": "Farstol Chair",
-        "price": 120,
+        "name": "Sofa Chair",
+        "price": 220,
         "img": "../images/chair/chair6.png",
         "status": ""
     },
     {
         "id": 7,
-        "name": "Farstol Chair",
+        "name": "Rounded Chair",
         "price": 120,
         "img": "../images/chair/chair7.png",
-        "status": ""
+        "status": "new"
     },
     {
         "id": 8,
-        "name": "Farstol Chair",
-        "price": 120,
+        "name": "Royal Chair",
+        "price": 170,
         "img": "../images/chair/chair8.png",
         "status": ""
     }
