@@ -9,7 +9,7 @@ const Navbar = () => {
                     <label tabIndex={0} className="btn btn-ghost lg:hidden">
                         <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
                     </label>
-                    <ul tabIndex={0} className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52 uppercase font-semibold text-sm">
+                    <ul tabIndex={0} className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52 uppercase font-coresens text-xs">
                         <li><Link to='/'>Home</Link></li>
                         <li><Link to='/'>About</Link></li>
                         <li><Link to='/'>Online Shop</Link></li>
@@ -25,15 +25,15 @@ const Navbar = () => {
                                         </div>
                                     </label>
                                 </div>
-                                <p className='ml-0'>$100.00</p>
+                                <p className='ml-0 font-coresens text-xs'>$100.00</p>
                             </div>
                         </li>
                     </ul>
                 </div>
-                <Link to='/' className="btn btn-link no-underline hover:no-underline normal-case text-xl text-secondary font-bold border-4 border-secondary hover:border-secondary">DeepGreen</Link>
+                <Link to='/' className="btn btn-link no-underline hover:no-underline normal-case text-xl text-secondary font-coresens border-4 border-secondary hover:border-secondary">DeepGreen</Link>
             </div>
             <div className="navbar-center hidden lg:flex">
-                <ul className="menu menu-horizontal px-1 uppercase font-semibold text-sm">
+                <ul className="menu menu-horizontal px-1 uppercase font-coresens text-xs">
                     <li><Link to='/'>Home</Link></li>
                     <li><Link to='/'>About</Link></li>
                     <li><Link to='/'>Online Shop</Link></li>
@@ -50,7 +50,7 @@ const Navbar = () => {
                         </div>
                     </label>
                 </div>
-                <p className='border-r-2 border-l-neutral rounded-none pr-4 mx-2 font-semibold text-sm'>$100.00</p>
+                <p className='border-r-2 border-l-neutral rounded-none pr-4 mx-2 font-coresens text-xs'>$100.00</p>
                 <button className="btn btn-ghost btn-circle">
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
                 </button>
