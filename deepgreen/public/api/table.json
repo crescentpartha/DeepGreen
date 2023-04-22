@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Farstol Table",
+        "price": 120,
+        "img": "../images/table/table1.png",
+        "status": "new"
+    },
+    {
+        "id": 2,
+        "name": "Farstol Table",
+        "price": "120",
+        "img": "../images/table/table2.png",
+        "status": ""
+    },
+    {
+        "id": 3,
+        "name": "Farstol Table",
+        "price": 120,
+        "img": "../images/table/table3.png",
+        "status": "sale"
+    },
+    {
+        "id": 4,
+        "name": "Farstol Table",
+        "price": 120,
+        "img": "../images/table/table4.png",
+        "status": ""
+    },
+    {
+        "id": 5,
+        "name": "Farstol Table",
+        "price": 120,
+        "img": "../images/table/table5.png",
+        "status": ""
+    },
+    {
+        "id": 6,
+        "name": "Farstol Table",
+        "price": 120,
+        "img": "../images/table/table6.png",
+        "status": ""
+    },
+    {
+        "id": 7,
+        "name": "Farstol Table",
+        "price": 120,
+        "img": "../images/table/table7.png",
+        "status": ""
+    },
+    {
+        "id": 8,
+        "name": "Farstol Table",
+        "price": 120,
+        "img": "../images/table/table8.png",
+        "status": ""
+    }
+]

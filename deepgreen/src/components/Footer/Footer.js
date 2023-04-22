@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPinterest, faTwitter, faBehance, faDribbble } from '@fortawesome/free-brands-svg-icons';
 import { faHeart } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
-import footerBanner from '../images/footer-banner.jpg';
+import footerBanner from '../../images/footer-banner.jpg';
 import FooterCard from './FooterCard';
 
 const Footer = () => {

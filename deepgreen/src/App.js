@@ -3,7 +3,7 @@ import './App.css';
 import Home from './components/Home';
 import NotFound from './components/NotFound';
 import Navbar from './components/Navbar';
-import Footer from './components/Footer';
+import Footer from './components/Footer/Footer';
 import AllProducts from './components/AllProducts/AllProducts';
 import Table from './components/AllProducts/Table';
 import Chair from './components/AllProducts/Chair';
