@@ -4,6 +4,7 @@ import CustomLink from './CustomLink';
 import Interior from './HandCrafted/Interior';
 import Exterior from './HandCrafted/Exterior';
 import MiddleBanner from './MiddleBanner/MiddleBanner';
+import FeaturedProducts from './FeaturedProducts/FeaturedProducts';
 
 const Home = () => {
     return (
@@ -30,6 +31,9 @@ const Home = () => {
             </div>
             <div>
                 <MiddleBanner></MiddleBanner>
+            </div>
+            <div>
+                <FeaturedProducts></FeaturedProducts>
             </div>
         </div>
     );
