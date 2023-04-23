@@ -3,6 +3,7 @@ import { Outlet } from 'react-router';
 import CustomLink from './CustomLink';
 import Interior from './HandCrafted/Interior';
 import Exterior from './HandCrafted/Exterior';
+import MiddleBanner from './MiddleBanner/MiddleBanner';
 
 const Home = () => {
     return (
@@ -26,6 +27,9 @@ const Home = () => {
                     <p className='p-4 max-w-screen-md mx-auto'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur illum non reprehenderit dicta qui rem maxime corporis quasi dolorum blanditiis.</p>
                 </div>
                 <Outlet></Outlet>
+            </div>
+            <div>
+                <MiddleBanner></MiddleBanner>
             </div>
         </div>
     );
