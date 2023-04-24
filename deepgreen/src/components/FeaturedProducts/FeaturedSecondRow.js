@@ -11,7 +11,7 @@ const FeaturedSecondRow = () => {
                     <h4 className='uppercase font-coresens text-xs sm:text-sm'>From <span className='text-primary'>$125.00</span></h4>
                     <h2 className='uppercase font-coresens text-xl sm:text-2xl my-2'>Silda Lamp</h2>
                     <p className='font-kiro text-xs mb-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, placeat!</p>
-                    <Link to='/' className='uppercase font-coresens text-xs sm:text-sm mt-2'>Explore</Link>
+                    <Link to='/' className='uppercase font-coresens text-xs sm:text-sm mt-2'>Add To Cart</Link>
                     <hr className='w-10 mx-auto border-t-2 border-primary' />
                 </div>
 
