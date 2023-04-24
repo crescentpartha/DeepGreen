@@ -8,7 +8,7 @@ const FeaturedSecondRow = () => {
         <div className='flex flex-row flex-wrap md:flex-nowrap gap-4 w-full'>
             <div className='flex flex-col gap-4 justify-center items-center bg-info px-4 sm:px-10 pt-10 w-full md:w-5/6 lg:w-4/6 xl:w-3/6 2xl:w-2/6 sm:h-80 max-h-full'>
                 <div className='text-center'>
-                    <h4 className='uppercase font-coresens text-xs sm:text-sm'>From <span className='text-primary'>$125.00</span></h4>
+                    <h4 className='uppercase font-coresens text-xs sm:text-sm'>Price <span className='text-primary'>$125.00</span></h4>
                     <h2 className='uppercase font-coresens text-xl sm:text-2xl my-2'>Study Table</h2>
                     <p className='font-kiro text-xs mb-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, placeat!</p>
                     <Link to='/' className='uppercase font-coresens text-xs sm:text-sm mt-2'>Add To Cart</Link>

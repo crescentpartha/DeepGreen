@@ -5,14 +5,22 @@ import Interior from './HandCrafted/Interior';
 import Exterior from './HandCrafted/Exterior';
 import MiddleBanner from './MiddleBanner/MiddleBanner';
 import FeaturedProducts from './FeaturedProducts/FeaturedProducts';
+import Carousel from './Carousel/Carousel';
 
 const Home = () => {
     return (
         <div>
+            {/* Header Slider Section */}
+            <div>
+                <Carousel></Carousel>
+            </div>
+
+            {/* HandCrafted Section */}
             <div className='flex flex-row flex-wrap gap-4 justify-center items-center mx-4 mt-12'>
                 <Interior></Interior>
                 <Exterior></Exterior>
             </div>
+
             {/* All Products Section */}
             <div className='mb-20 mt-12'>
                 <div>
@@ -29,9 +37,13 @@ const Home = () => {
                 </div>
                 <Outlet></Outlet>
             </div>
+
+            {/* Middle Banner Section */}
             <div>
                 <MiddleBanner></MiddleBanner>
             </div>
+
+            {/* Featured Products Section */}
             <div>
                 <FeaturedProducts></FeaturedProducts>
             </div>

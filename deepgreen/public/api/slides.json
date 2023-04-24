@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "The first man sits on the chair",
+        "img": "./../images/carousel/chairmen2.png",
+        "moto": "For the finest quality",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat reiciendis beatae rerum alias aliquid temporibus tempore veniam debitis fugit, error dolor quia ex architecto sequi?"
+    },
+    {
+        "id": 2,
+        "title": "The second man sits on the chair",
+        "img": "./../images/carousel/chairmen1.png",
+        "moto": "For the biggest Quantity",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet, possimus ullam, saepe facere voluptatibus, suscipit commodi veritatis nulla nostrum repellendus doloremque provident? Nobis, ut obcaecati!"
+    },
+    {
+        "id": 3,
+        "title": "The third man sits on the chair",
+        "img": "./../images/carousel/chairmen3.png",
+        "moto": "For the nicest handcrafted",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, a. Deserunt dolor veritatis alias nisi rerum eum laborum quisquam odit, eius iure nam, voluptatibus illum?"
+    }
+]
