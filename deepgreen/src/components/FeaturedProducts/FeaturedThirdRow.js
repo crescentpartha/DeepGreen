@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import pineapple from '../../images/features-product/pineapple-table.png';
+import turki_lamp from '../../images/features-product/turki-lamp.png';
 import watch from '../../images/features-product/watch.png';
 import watch2 from '../../images/features-product/watch2.png';
 
@@ -34,7 +34,7 @@ const FeaturedThirdRow = () => {
                         </div>
 
                         {/* Background Image Section */}
-                        <div className="hero h-full bg-no-repeat bg-left-top bg-cover" style={{ backgroundImage: `url(${pineapple})` }}>
+                        <div className="hero h-full bg-no-repeat bg-left-top bg-cover" style={{ backgroundImage: `url(${turki_lamp})` }}>
                             <div className="hero-overlay bg-opacity-10"></div>
                             <div className="hero-content text-center text-neutral-content w-full p-0 pt-20 pb-5">
                                 {/* There were no content over image */}

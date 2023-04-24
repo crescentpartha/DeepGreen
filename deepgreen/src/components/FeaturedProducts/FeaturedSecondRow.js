@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import tabletop2 from '../../images/features-product/tabletop2.png';
-import turki_lamp from '../../images/features-product/turki-lamp.png';
+import table from '../../images/handcrafted/table.png';
 
 const FeaturedSecondRow = () => {
     return (
@@ -9,14 +9,14 @@ const FeaturedSecondRow = () => {
             <div className='flex flex-col gap-4 justify-center items-center bg-info px-4 sm:px-10 pt-10 w-full md:w-5/6 lg:w-4/6 xl:w-3/6 2xl:w-2/6 sm:h-80 max-h-full'>
                 <div className='text-center'>
                     <h4 className='uppercase font-coresens text-xs sm:text-sm'>From <span className='text-primary'>$125.00</span></h4>
-                    <h2 className='uppercase font-coresens text-xl sm:text-2xl my-2'>Silda Lamp</h2>
+                    <h2 className='uppercase font-coresens text-xl sm:text-2xl my-2'>Study Table</h2>
                     <p className='font-kiro text-xs mb-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, placeat!</p>
                     <Link to='/' className='uppercase font-coresens text-xs sm:text-sm mt-2'>Add To Cart</Link>
                     <hr className='w-10 mx-auto border-t-2 border-primary' />
                 </div>
 
                 {/* Background Image Section */}
-                <div className="hero h-full bg-no-repeat bg-center bg-cover" style={{ backgroundImage: `url(${turki_lamp})` }}>
+                <div className="hero h-full bg-no-repeat bg-top bg-cover" style={{ backgroundImage: `url(${table})` }}>
                     <div className="hero-overlay bg-opacity-10"></div>
                     <div className="hero-content text-center text-neutral-content w-full p-0 pt-20 pb-5">
                         {/* There were no content over image */}
