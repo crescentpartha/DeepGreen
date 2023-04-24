@@ -1,11 +1,11 @@
 import React from 'react';
 import { Outlet } from 'react-router';
-import CustomLink from './CustomLink';
-import Interior from './HandCrafted/Interior';
-import Exterior from './HandCrafted/Exterior';
-import MiddleBanner from './MiddleBanner/MiddleBanner';
-import FeaturedProducts from './FeaturedProducts/FeaturedProducts';
-import Carousel from './Carousel/Carousel';
+import CustomLink from '../Shared/CustomLink';
+import Interior from '../HandCrafted/Interior';
+import Exterior from '../HandCrafted/Exterior';
+import MiddleBanner from '../MiddleBanner/MiddleBanner';
+import FeaturedProducts from '../FeaturedProducts/FeaturedProducts';
+import Carousel from '../Carousel/Carousel';
 
 const Home = () => {
     return (

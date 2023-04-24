@@ -23,7 +23,7 @@ const Footer = () => {
                         <Link to='/' className="btn btn-link no-underline hover:no-underline normal-case text-xl text-neutral font-coresens border-4 border-neutral hover:border-neutral rounded-none">DeepGreen</Link>
                         <p className='text-neutral-400 text-sm my-6 font-kiro'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem consectetur voluptas, iure ipsum ratione asperiores dolor tempora nobis labore praesentium.</p>
                         <div>
-                            <Link to='/' className='py-2 px-5 font-coresens rounded-none hover:bg-primary hover:text-neutral-50 text-neutral-400 border-r hover:border-primary border-neutral-600 uppercase text-sm'>Facebook</Link>
+                            <Link to='/' className='py-2 px-3 font-coresens rounded-none bg-primary hover:text-neutral-50 text-neutral-50 border-r hover:border-primary border-primary'>Facebook</Link>
                             <Link to='/' className='py-2 px-3 font-coresens rounded-none hover:bg-primary hover:text-neutral-50 text-neutral-400 border-r hover:border-primary border-neutral-600'><FontAwesomeIcon icon={faPinterest} /></Link>
                             <Link to='/' className='py-2 px-3 font-coresens rounded-none hover:bg-primary hover:text-neutral-50 text-neutral-400 border-r hover:border-primary border-neutral-600'><FontAwesomeIcon icon={faTwitter} /></Link>
                             <Link to='/' className='py-2 px-3 font-coresens rounded-none hover:bg-primary hover:text-neutral-50 text-neutral-400 border-r hover:border-primary border-neutral-600'><FontAwesomeIcon icon={faBehance} /></Link>
